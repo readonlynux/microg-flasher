@@ -5,11 +5,7 @@ This module allows you to install microG using the Magisk systemless module stru
 
 > ⚠️ This module does not guarantee that microG applications will work properly!
 
-----
-
 # ✨ microG's
-
-----
 
 ## 🔹  microG all (recommended)
 
@@ -21,9 +17,7 @@ This version includes all applications of microG.
 - [microG Services Framework](https://github.com/microg/GsfProxy)
 - [microG Companion](https://github.com/microg/GmsCore)
 
-> 📌 [Download Here](https://github.com/readonlynux/reponame/releases/latest)
-
-----
+> 📌 [Download Here](https://github.com/readonlynux/microg-magisk/releases/latest)
 
 ## 🔹 microG minimal
 
