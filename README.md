@@ -17,7 +17,7 @@ This version includes all applications of microG.
 - [microG Services Framework](https://github.com/microg/GsfProxy)
 - [microG Companion](https://github.com/microg/GmsCore)
 
-> 📌 [Download Here](https://github.com/readonlynux/microg-magisk/releases/latest)
+> 📌 [Download Here](https://github.com/readonlynux/microg-flasher/releases/latest)
 
 ## 🔹 microG minimal
 
@@ -28,7 +28,7 @@ This version is the Play Store version (without microG companion).
 - [microG Services](https://github.com/microg/GmsCore)
 - [microG Services Framework](https://github.com/microg/GsfProxy)
 
-> 📌 [Download Here](https://github.com/readonlynux/reponame/releases/latest)
+> 📌 [Download Here](https://github.com/readonlynux/microg-flasher/releases/latest)
 
 ----
 
@@ -43,7 +43,7 @@ This version is the Play Store version (without microG companion).
 You can report the crash to the issue section along with the crash report. However, it generally stems from the following:
 
 - GMS (Google Mobile Services) services may not have been uninstalled properly on the device.
-    - How to remove it: Simply flash the **GMS remover module** from [this link](https://github.com) and flash the microG module without rebooting the device. This is because some apps crash after removing **GMS (Google Mobile Services)**, causing system-wide instability.
+    - How to remove it: Simply flash the **GMS remover module** from [this link](https://github.com/readonlynux/gms-uninstaller) and flash (**DO NOT FLASH WITHOUT READING THE GUIDE**) the microG module without rebooting the device. This is because some apps crash after removing **GMS (Google Mobile Services)**, causing system-wide instability.
 - Android Version or Magisk version may not be supported
     - Update or change your device
-    - Report it in the [issue](https://github.com) section.
+    - Report it in the [issue](https://github.com/readonlynux/microg-flasher/issues) section.
