@@ -36,20 +36,16 @@ This version is the Play Store version (without microG companion).
 
 > 📌 [Download Here](https://github.com/readonlynux/microg-flasher/releases/latest)
 
-----
 
 # ❓ FAQ
 
-----
-
 ### 🧨 The module keeps crashing
-
-----
 
 You can report the crash to the issue section along with the crash report. However, it generally stems from the following:
 
 - GMS (Google Mobile Services) services may not have been uninstalled properly on the device.
     - How to remove it: Simply flash the **GMS remover module** from [this link](https://github.com/readonlynux/gms-uninstaller) and flash (**DO NOT FLASH WITHOUT READING THE GUIDE**) the microG module without rebooting the device. This is because some apps crash after removing **GMS (Google Mobile Services)**, causing system-wide instability.
-- Android Version or Magisk version may not be supported
-    - Update or change your device
-    - Report it in the [issue](https://github.com/readonlynux/microg-flasher/issues) section.
+
+# BUGS
+
+Please Report it in the [issue](https://github.com/readonlynux/microg-flasher/issues) section.
