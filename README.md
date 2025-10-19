@@ -3,7 +3,13 @@
 
 This module allows you to install microG using the Magisk systemless module structure.
 
-> ⚠️ This module does not guarantee that microG applications will work properly!
+> **❌ NOT SUPPORTED:** Not supported on **Android 10 and below devices**. Use this flashable zip file only for **ANDROID 11 AND ABOVE!** **I AM NOT RESPONSIBLE FOR ANY DAMAGES THAT MAY OCCUR!**
+
+> ⚠️ This module cannot guarantee that microG applications will work properly.
+
+## 📜 Legal Information
+
+**I AM NOT RESPONSIBLE FOR ANY PROBLEMS THAT MAY OCCURR! Use at your own risk!**
 
 # ✨ microG's
 
