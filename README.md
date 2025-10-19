@@ -37,7 +37,3 @@ This version is the Play Store version (without microG companion).
 - [microG Services Framework](https://github.com/microg/GsfProxy)
 
 > 📌 [Download Here](https://github.com/readonlynux/microg-flasher/releases/latest)
-
-# BUGS
-
-Please Report it in the [issue](https://github.com/readonlynux/microg-flasher/issues) section.
