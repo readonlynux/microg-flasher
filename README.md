@@ -3,9 +3,19 @@
 
 This module allows you to install microG using the Magisk systemless module structure.
 
-> ⚠️ This module does not guarantee that microG applications will work properly!
+> **❌ NOT SUPPORTED:** Not supported on **Android 10 and below devices**. Use this flashable zip file only for **ANDROID 11 AND ABOVE!** **I AM NOT RESPONSIBLE FOR ANY DAMAGES THAT MAY OCCUR!**
+
+> ⚠️ This module cannot guarantee that microG applications will work properly.
+
+## 📜 Legal Information
+
+**I AM NOT RESPONSIBLE FOR ANY PROBLEMS THAT MAY OCCURR! Use at your own risk!**
+
+[LICENSES](LICENSES/)
 
 # ✨ microG's
+
+> **⚠️ WARNING:** **This module works with Google Play Services and Google Services Framework (Play Store (optional)).** If installed, uninstall it from [this link](https://github.com/readonlynux/gms-uninstaller).
 
 ## 🔹  microG all (recommended)
 
@@ -30,20 +40,10 @@ This version is the Play Store version (without microG companion).
 
 > 📌 [Download Here](https://github.com/readonlynux/microg-flasher/releases/latest)
 
-----
+# 🪛 How to build it?
 
-# ❓ FAQ
+## 🛠️ Pre-requirements
 
-----
+- 1️⃣ File Manager (such as Material Files, ZArchiver etc.)
 
-### 🧨 The module keeps crashing
-
-----
-
-You can report the crash to the issue section along with the crash report. However, it generally stems from the following:
-
-- GMS (Google Mobile Services) services may not have been uninstalled properly on the device.
-    - How to remove it: Simply flash the **GMS remover module** from [this link](https://github.com/readonlynux/gms-uninstaller) and flash (**DO NOT FLASH WITHOUT READING THE GUIDE**) the microG module without rebooting the device. This is because some apps crash after removing **GMS (Google Mobile Services)**, causing system-wide instability.
-- Android Version or Magisk version may not be supported
-    - Update or change your device
-    - Report it in the [issue](https://github.com/readonlynux/microg-flasher/issues) section.
+This is included in the [documentation](docs/build.md).
