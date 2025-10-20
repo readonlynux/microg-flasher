@@ -31,6 +31,14 @@ This version includes all applications of microG.
 
 This version is the Play Store version (without microG companion).
 
+# 🪛 How to build it?
+
+## 🛠️ Pre-requirement
+
+- 1️⃣ File Manager (such as Material Files, ZArchiver etc.)
+
+This is included in the [documentation](docs/build.md).
+
 ## ⬇️ Includes
 
 - [microG Services](https://github.com/microg/GmsCore)
