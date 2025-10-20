@@ -1,4 +1,3 @@
-Unfortunately, I could not place the file because GitHub has a 25 MB limit. 
-I will share the APK files in the [releases section](https://github.com/readonlynux/microg-flasher).
+I shared the APK file in the [releases section](https://github.com/readonlynux/microg-flasher/releases/latest).
 
 [Source Project](https://github.com/microg/GmsCore/)
