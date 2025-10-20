@@ -34,3 +34,7 @@
 <img width="360" height="720" alt="Screenshot_20251020-210910_Material Files" src="https://github.com/user-attachments/assets/8561d85a-1498-451f-b7f9-a86aa9e472ec" />
 
 8. Finally, flash
+
+<img width="360" height="720" alt="Screenshot_20251020-211211_Files" src="https://github.com/user-attachments/assets/644890ca-e4e0-4cb5-9332-eef5000346f9" />
+<img width="360" height="720" alt="Screenshot_20251020-211217_Settings" src="https://github.com/user-attachments/assets/959110a7-2de1-49cb-8a6a-4d907e01b081" />
+<img width="360" height="720" alt="Screenshot_20251020-211223_Settings" src="https://github.com/user-attachments/assets/6c4aa1ae-13b0-41ba-94c7-d9bd1c8f96ba" />
