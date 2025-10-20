@@ -19,4 +19,18 @@
 - GmsCore and microG companion => [Download](https://github.com/microg/GmsCore/releases/latest)
 - GsfProxy => [Download](https://github.com/microg/GsfProxy/releases/latest)
 
-6. 
+6. Delete the files that say change_me and the files ending with md and move the APK files you downloaded.
+
+> **⚠️ NOTE:** Usually, ***.vending is Play store (in the Vending folder). ***.gms is Play services (in the GmsCore folder).
+
+<img width="360" height="720" alt="Screenshot_20251020-210347_Material Files" src="https://github.com/user-attachments/assets/9fb4d00b-b095-43d6-84dc-454af8d28122" />
+
+<img width="360" height="720" alt="Screenshot_20251020-210356_Material Files" src="https://github.com/user-attachments/assets/c819e041-ac52-4c0d-86f2-842c5649777c" />
+
+7. Compress Files and Folders
+
+<img width="360" height="720" alt="Screenshot_20251020-210827_Material Files" src="https://github.com/user-attachments/assets/13af27c9-8c3b-4fbd-8744-9214748617e8" />
+<img width="360" height="720" alt="Screenshot_20251020-210900_Material Files" src="https://github.com/user-attachments/assets/2392089f-a085-43a0-9e7a-e8b36883eefe" />
+<img width="360" height="720" alt="Screenshot_20251020-210910_Material Files" src="https://github.com/user-attachments/assets/8561d85a-1498-451f-b7f9-a86aa9e472ec" />
+
+8. Finally, flash
