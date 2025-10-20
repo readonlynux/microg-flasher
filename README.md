@@ -11,6 +11,8 @@ This module allows you to install microG using the Magisk systemless module stru
 
 **I AM NOT RESPONSIBLE FOR ANY PROBLEMS THAT MAY OCCURR! Use at your own risk!**
 
+[LICENSES](LICENSES/)
+
 # ✨ microG's
 
 > **⚠️ WARNING:** **This module works with Google Play Services and Google Services Framework (Play Store (optional)).** If installed, uninstall it from [this link](https://github.com/readonlynux/gms-uninstaller).
@@ -31,17 +33,17 @@ This version includes all applications of microG.
 
 This version is the Play Store version (without microG companion).
 
-# 🪛 How to build it?
-
-## 🛠️ Pre-requirement
-
-- 1️⃣ File Manager (such as Material Files, ZArchiver etc.)
-
-This is included in the [documentation](docs/build.md).
-
 ## ⬇️ Includes
 
 - [microG Services](https://github.com/microg/GmsCore)
 - [microG Services Framework](https://github.com/microg/GsfProxy)
 
 > 📌 [Download Here](https://github.com/readonlynux/microg-flasher/releases/latest)
+
+# 🪛 How to build it?
+
+## 🛠️ Pre-requirements
+
+- 1️⃣ File Manager (such as Material Files, ZArchiver etc.)
+
+This is included in the [documentation](docs/build.md).
