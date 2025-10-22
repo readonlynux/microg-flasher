@@ -1,6 +1,6 @@
 # 🪛 How to build it?
 
-1. Download a file manager (such as Material Files, ZArchiver, Amaze File Manager etc.) or open an existing file manager.
+1. Download a file manager (such as Material Files, ZArchiver, Amaze File Manager etc.)
 
 2. Open File Manager app.
 
