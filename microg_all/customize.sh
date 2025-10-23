@@ -1,5 +1,5 @@
 ui_print "$(cat $MODPATH/assets/microGSplash)"
-ui_print "Welcome to microG minimal setup and wizard!!"
+ui_print "Welcome to microG full setup and wizard!!"
 ui_print "Module Version: $(cat $MODPATH/version)"
 ui_print "📱 Device Brand: $(getprop ro.product.brand)"
 ui_print "📱 Device Model: $(getprop ro.product.model)"
