@@ -17,6 +17,10 @@ This module allows you to install microG using the Magisk systemless module stru
 
 > **⚠️ WARNING:** **This module works with Google Play Services and Google Services Framework (Play Store (optional)).** If installed, uninstall it from [this link](https://github.com/readonlynux/gms-uninstaller).
 
+## 🐞 Known Bugs
+
+- microG services crash when Magisk is added to the Hide list.
+
 ## 🔹  microG all (recommended)
 
 This version includes all applications of microG.
